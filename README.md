@@ -25,7 +25,7 @@ The analysis of the presence of ISO-639 familiy of  language codes  in dc:langua
 The second table, shown below, presents the number of dc:language values that can be normalized by applying the string matching techniques implemented in this tool. The table contains the number of values that can be obtained with each of the string matching methods, and the confidence we assigned to the method. The different matching techniques address several types of language codes and names, but, underlying their algorithms, is a core vocabulary of languages. This vocabulary contains all ISO language codes and language names, in all european languages. It is the the Languages Name Authority List (NAL) published in the European Union Open Data Portal  - https://open-data.europa.eu/en/data/dataset/language				
 
 |                     Description of normalization                     | Confidence Level | Normalization to ISO-639-1 | Normalization to Languages NAL |
-|:--------------------------------------------------------------------:|:----------------:|:--------------------------:|:------------------------------|
+|:--------------------------------------------------------------------:|:----------------:|:--------------------------:|:-----------------------------:|
 |  Matching with a code from ISO-639-1 (currently in use at Europeana) |  Almost certain  |         23,988,536         |           23,988,536           |
 |                        Match with any ISO code                       |  Almost certain  |          4,200,398         |            5,485,168           |
 |      Match with language name in any language (full field value)     |     Very high    |          3,329,964         |            3,337,461           |
