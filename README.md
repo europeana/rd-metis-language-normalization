@@ -30,5 +30,5 @@ The second table, shown below, presents the number of dc:language values that ca
 |                        Match with any ISO code                       |  Almost certain  |          4,200,398         |            5,485,168           |
 |      Match with language name in any language (full field value)     |     Very high    |          3,329,964         |            3,337,461           |
 | Match by name in any language or ISO code (words within field value) |       High       |           768,733          |             771,472            |
-|             **Total number of values that can be normalized**           |         -        |         32,287,631         |           33,582,637           |
-|                     **(percentage of total values in Europeana)**                     |         -        |           (82.23%)           |             (85.53%)             |
+|             **Total number of values that can be normalized**           |         -        |         **32,287,631**         |           **33,582,637**           |
+|                     **(percentage of total values in Europeana)**                     |         -        |           **(82.23%)**           |             **(85.53%)**             |
