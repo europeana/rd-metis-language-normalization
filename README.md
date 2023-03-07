@@ -1,3 +1,5 @@
+**This project is deprecated and not maintained anymore**
+
 # metis-language-normalization
 
 This project provides a tool for normalizing language related metadata, such as dc:language properties. The tool was designed after an investigation of how the dc:language property was being used by data providers of Europeana.
